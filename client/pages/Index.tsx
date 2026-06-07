@@ -121,7 +121,7 @@ export default function Index() {
             {/* Professional Headshot Placeholder */}
             <div className="flex justify-center">
               <div className="relative w-80 h-80 rounded-2xl overflow-hidden shadow-2xl">
-              <img src="/profile.jpg" alt="Syed Usman Kazmi" className="w-full h-full object-cover" />
+              <img src="/Profile.jpg" alt="Syed Usman Kazmi" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>
