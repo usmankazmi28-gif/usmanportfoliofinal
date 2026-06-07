@@ -121,12 +121,7 @@ export default function Index() {
             {/* Professional Headshot Placeholder */}
             <div className="flex justify-center">
               <div className="relative w-80 h-80 rounded-2xl overflow-hidden shadow-2xl">
-                <div className="w-full h-full bg-gradient-to-br from-slate-200 via-slate-300 to-slate-400 flex items-center justify-center">
-                  <div className="text-center">
-                    <div className="text-6xl mb-2">📸</div>
-                    <p className="text-slate-600 font-medium">Professional Headshot</p>
-                  </div>
-                </div>
+              <img src="/profile.jpg" alt="Syed Usman Kazmi" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>
