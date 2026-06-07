@@ -154,8 +154,8 @@ export default function Index() {
               </div>
               <div className="glass p-6 rounded-xl">
                 <h3 className="text-xl font-bold mb-2">Certification</h3>
-                <p className="text-slate-700 font-medium">Bano Qabil</p>
-                <p className="text-slate-600">Internationally Recognized Professional Certification</p>
+               <p className="text-slate-700 font-medium">Web Development & Digital Marketing from Bano Qabil</p>
+<p className="text-slate-600">Al Khidmat Foundation</p>
               </div>
               <div className="glass p-6 rounded-xl">
                 <h3 className="text-xl font-bold mb-2">Experience</h3>
